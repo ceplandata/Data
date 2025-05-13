@@ -4,7 +4,7 @@ Este repositorio contiene scripts de Python para el análisis de datos territori
 
 ## Contenidos
 - **codigo.py**: Script inicial en Python para procesar datos.
-- **Documentación CEPLAN**: Enlaces y guías oficiales sobre planeamiento estratégico.
+- **Documentación CEPLAN**: Enlaces y guías oficiales sobre planeamiento estratégico. 
 
 ## Requisitos
 - Python 3.10+
